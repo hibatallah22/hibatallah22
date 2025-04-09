@@ -1,4 +1,4 @@
-# Hi there, I'm [Hibatalllah]!
+# Hi there, I'm Hibatalllah!
 
 I'm an aspiring Computer Science student passionate about exploring the intersections of **AI, math, physics, art, and music**. I love building creative tools, experimenting with code, and learning how technology can amplify both logic and expression.
 
